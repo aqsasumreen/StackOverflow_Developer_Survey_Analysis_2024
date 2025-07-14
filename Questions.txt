@@ -1,0 +1,51 @@
+OVERALL SUMMARY OF SURVEY:
+--> EASY: How many total responses were recorded in the survey?
+
+	  What are the top 10 countries by number of respondents?
+
+	  How many respondents have used JavaScript in the past year?
+
+	  How many developers have a Stack Overflow account?
+
+--> MEDIUM: Which developer types are most common in each country?
+
+	    What are the most used databases among respondents?
+
+ 	    Which technologies are most admired vs. most desired?
+
+	    What are the average and median salaries for different countries?
+
+--> HARD:   Which countries report the highest average compensation?
+
+	    Which AI tools are most admired, and how does usage compare between professionals and learners?
+
+	    What is the relationship between developer type and employment status?
+
+	    Which combination of technologies is most common among full-time developers?
+
+
+--------------  EDUCATION -----------
+--> educational attainment of professional developers?
+--> how survey respondents learn to code based on their age?
+--> Top 10 online resources for learning code?
+--> How many years have developers been coding, both overall and professionally?
+--> What percentage of developers have more than 15 years of coding experience?
+
+--------------  TECHNOLOGY -----------
+--> What are top 5 popular languages used by people who are lurning to code?
+--> top 3 most common IDEs used by professional developers?
+--> What are the most commonly used operating systems by developers for personal and professional use?  (mean, each typoe along with its percentage in personal and professional)
+--------------  WORK -----------
+--> EMPLOYMENT STATUS BY GEOGRAPHY?
+--> NUMBER OF EMPLOYES IN ORGANIZATION IN WHICH PEOPLE WORK?
+
+
+
+
+
+
+
+
+
+
+
